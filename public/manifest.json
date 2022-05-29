@@ -1,0 +1,54 @@
+{
+  "short_name": "Kiattisak Profile",
+  "name": "Kiattisak Profile",
+  "description": "Hello, my name is Kiattisak. I'm a blockchain expert, and I can write Typescript Golang Python SQL and use Docker.",
+  "icons": [
+    {
+      "src": "/icon/kiattisak-x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon/kiattisak-x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon/kiattisak-x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon/kiattisak-x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon/kiattisak-x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon/kiattisak-x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon/kiattisak-x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/",
+  "background_color": "#151019",
+  "display": "standalone",
+  "theme_color": "#151019"
+}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.kiattisak.com
+
+# Sitemaps
+Sitemap: https://www.kiattisak.com/sitemap.xml
